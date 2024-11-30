@@ -11,5 +11,6 @@ DON'T LEARN THESE CODE AS THERE NOT BENEFIT FROM IT, UNDERSTAND THE CODES INSTEA
 
 CAN GIVE APPRECIATION ----> INSTA - @shivangdubey321
 
-THANKS!
+At knowledge - HTML, CSS, JAVASCRIPT, PYTHON,C ,C++, Ethical network hacking and modearate hacking
 
+THANKS!
