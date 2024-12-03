@@ -8,7 +8,7 @@ int main()
 
 
     char copy[30];
-    strcpy(copy, st1); // Strcopy is used to copy the data of st to copy syntax is :::--->>> strcpy(target,source)
+    strcpy(copy, st1); // Strcopy is used to copy the data of one string to other:::--->>> strcpy(target,source)
     printf("%s\n", copy);
     char st2[] = "my fav one is elden ring";
 
